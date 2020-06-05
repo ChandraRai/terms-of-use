@@ -21,7 +21,7 @@ const routes: Routes = [
       },
       {
         path: '',
-        redirectTo: 'tabs/privacy',
+        redirectTo: 'privacy',
         pathMatch: 'full'
       }
     ]
